@@ -8,7 +8,7 @@
 
 ### Organization
 
-The code/ directory contains the computing script which save the results in the data directory.
-The plot/ directory contains the plotting scripts which save the plots in the data/plot/ directory.
+The code/ directory contains the computing scripts and the results are saved the results in a data/ directory.
+The plot/ directory contains the plotting scripts and the plots in a data/plot/ directory.
 In practice the code was run on a distant server to accomodate for the memory heaviness and computing power needs of the scripts.
 And the plots were done on personal computers.
